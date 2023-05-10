@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+#quote{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+#author{
+    font-size:24px;
+    font-style: italic;
+}
+
+#btn{
+    background-color: #007bff;
+    color:#fff;
+    border:none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor:pointer;
+}
+#btn:hover{
+    background-color: blue;
+}
